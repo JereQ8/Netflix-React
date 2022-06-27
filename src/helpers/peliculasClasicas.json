@@ -1,0 +1,94 @@
+[
+    {
+        "nombre":"El origen",
+        "descripcion":"El tiempo no es un parametro, mientras el trompo gire nada se puede creer. ¿Esta girando?",
+        "foto":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/maxresdefault-1-1503479968.jpg?crop=1.00xw:0.893xh;0,0.0841xh&resize=980:*"
+    },
+
+    {
+        "nombre":"Beautiful Boy",
+        "descripcion":"El no tiene control aunque lo crea, el oscuro laberinto de las drogas lo ha desequilibrado. Un padre dispuesto a dejar absolutamente todo por el bien de su hijo.",
+        "foto":"https://i.pinimg.com/564x/d4/b8/f2/d4b8f22b5ac7e24f466686362cf37525.jpg"
+    },
+
+    {
+        "nombre":"Titanic",
+        "descripcion":"Un gran amor despierta en la encrucijada de un barco a punto de chocar contra un iceberg. Aun sabiendolo se amarian",
+        "foto":"https://img.europapress.es/fotoweb/fotonoticia_20150414125548_800.jpg"
+    },
+
+    {
+        "nombre":"Mujercitas",
+        "descripcion":"El amor antiguo deja sin palabras muchas veces. Estas hermanas enamoradas sufren, aman y desean un principe azul que las ame",
+        "foto":"https://www.elindependiente.com/wp-content/uploads/2020/02/MV5BZmU2NWZhMGEtZTE5MC00ZjEyLThlMDItNjlhMTA0M2JlMTk0XkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SY1000_CR0015001000_AL_-656x368.jpg"
+    },
+
+    {
+        "nombre":"Buscando a Nemo",
+        "descripcion":"La desesperacion de un padre por encontrar a su hijo es tan grande que deja todo por ello. El camino no es facil pero amigos lo hacen mejor",
+        "foto":"https://assets.adnradio.cl/2022/04/Buscando-a-Nemo-925x470.png"
+    },
+
+    {
+        "nombre":"Avatar",
+        "descripcion":"Jake Sully es un ex-marine confinado en una silla de ruedas que, a pesar de su cuerpo tullido, todavía es un guerrero de corazón. Jake ha sido reclutado para viajar a Pandora, donde las corporaciones están extrayendo un mineral extraño que es la clave para resolver los problemas de la crisis energética de la Tierra.",
+        "foto":"https://as01.epimg.net/meristation/imagenes/2022/04/27/noticias/1651090407_472545_1651090437_portada_normal.jpg"
+    },
+
+    {
+        "nombre":"Toy Story",
+        "descripcion":"La franquicia se basa en el concepto antropomórfico de que todos los juguetes, sin conocimiento de los seres humanos, están secretamente vivos, y las películas se centran en un diverso grupo de juguetes que incluyen un vaquero clásico, el Sheriff Woody y el moderno astronauta Buzz Lightyear.",
+        "foto":"https://artout.news/wp-content/uploads/2018/11/toy_story_crop1529333835586.jpg_1834093470.jpg"
+    },
+
+    {
+        "nombre":"Joker",
+        "descripcion":"Arthur Fleck es presentado como víctima de una sociedad inmisericorde, indolente, cruel y violenta. Ciudad Gótica es absolutamente hostil, es una sociedad enferma. No se salvan ni los niños ni los adultos. La corrupción ha penetrado el sistema y así, aparentemente, ha construido al Joker.",
+        "foto":"https://imagenes.heraldo.es/files/og_thumbnail/uploads/imagenes/2019/10/30/el-joker-en-nueva-york.jpeg"
+    },
+
+    {
+        "nombre":"Bajo la misma estrella",
+        "descripcion":"La historia es narrada por una adolescente de 16 años de edad llamada Hazel Grace Lancaster, quien padece cáncer de tiroides que acaba haciendo metástasis y trasladándose a los pulmones. Por ese motivo, tiene que usar siempre un tanque de oxígeno, al que ella llama Philip.",
+        "foto":"https://alexpler.files.wordpress.com/2014/08/the-fault-in-our-stars-2014-movie-review-marshall-we-live-film.jpg"
+    },
+
+    {
+        "nombre":"Wall-e",
+        "descripcion":"La trama sigue a un robot de la línea WALL. E, diseñada para limpiar la basura que cubre a la Tierra después de que fuese devastada y abandonada por el ser humano en un futuro lejano.",
+        "foto":"https://dosdecine.files.wordpress.com/2018/08/walle2.jpg"
+    },
+
+    {
+        "nombre":"El Señor de los Anillos",
+        "descripcion":"El Señor de los Anillos: Las dos Torres, es una película de fantasía y aventuras dirigida por Peter Jackson, secuela de La Comunidad del Anillo. Frodo (Elijah Wood) y Sam (Sean Astin) se separan del resto de sus compañeros de La Comunidad del Anillo para seguir solos su camino hasta Mordor, para destruir el Anillo.",
+        "foto":"https://newspack-hipertextual.s3.amazonaws.com/wp-content/uploads/2021/12/El-senor-de-los-anillos-00.jpg"
+    },
+
+    {
+        "nombre":"Up",
+        "descripcion":"​ La trama relata las aventuras de un viudo de edad avanzada llamado Carl Fredricksen y de un niño escultista cuyo nombre es Russell, quienes viajan a Cataratas del Paraíso, en Venezuela, en el interior de una casa flotante suspendida con globos rellenos de helio.",
+        "foto":"https://filasiete.com/wp-content/uploads/2019/04/Up.jpg"
+    },
+
+    {
+        "nombre":"Shrek",
+        "descripcion":"Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.",
+        "foto":"https://st1.uvnimg.com/fc/ed/85aa44e443aea043bb5c1a88c64f/shrek-burro-pelicula.jpg"
+    },
+
+    {
+        "nombre":"Piratas del Caribe",
+        "descripcion":"La historia cuenta las aventuras que viven el herrero Will Turner (Orlando Bloom) y el excéntrico capitán pirata Jack Sparrow (Johnny Depp) para rescatar a Elizabeth Swann (Keira Knightley), hija del gobernador de Port Royal, que ha sido secuestrada por la tripulación maldita del barco pirata Perla Negra.",
+        "foto":"https://cdn.superaficionados.com/imagenes/1-piratas-del-caribe-la-maldicion-del-perla-negra-cke.jpg"
+    },
+
+    {
+        "nombre":"Las ventajas de ser invisible",
+        "descripcion":"Charlie es un adolescente tímido e introvertido, con problemas para hacer nuevos amigos, que acaba de ingresar a un nuevo colegio. Pasa gran parte de su tiempo en solitario, extrañando a su mejor amigo.",
+        "foto":"https://hiramnoriega.com/wp-content/uploads/2020/08/123332323232.jpg"
+    }
+
+
+
+]

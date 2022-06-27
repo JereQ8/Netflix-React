@@ -1,0 +1,94 @@
+[
+    {
+        "nombre":"Stranger Things",
+        "descripcion":"A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña. Ve todo lo que quieras.",
+        "foto":"https://media.gq.com.mx/photos/5f5a6ba84464f9b88fb2682c/16:9/w_2560%2Cc_limit/stranger.jpg"
+    },
+
+    {
+        "nombre":"Anne with an E",
+        "descripcion":"Anne Shirley es una niña huérfana que vive en un pequeño pueblo llamado Avonlea que pertenece a la Isla del Príncipe Eduardo, en el año 1890. Después de una infancia difícil, donde fue pasando de orfanato a hogares de acogida, es enviada por error a vivir con una solterona y su hermano.",
+        "foto":"https://i0.wp.com/brutstatt.de/Wordpress/wp-content/uploads/2021/06/EP303_10_AWAE3_DAY06_KW_0394.jpg?ssl=1"
+    },
+
+    {
+        "nombre":"Elite",
+        "descripcion":"Cuando tres jóvenes de clase obrera se matriculan en un exclusivo instituto privado, las diferencias entre ellos y los alumnos ricos darán lugar a un asesinato. Ve todo lo que quieras. Jaime Lorente (Nano), María Pedraza (Marina) y Miguel Herrán (Christian) también protagonizaron `La casa de papel`.",
+        "foto":"https://indiehoy.com/wp-content/uploads/2021/07/elite-personajes.jpg"
+    },
+
+    {
+        "nombre":"Narcos",
+        "descripcion":"Narcos es una serie de televisión web de ficción histórica producida por Dynamo Producciones y Gaumon International Television para Netflix. Creada por los estadounidenses Chris Brancato, Eric Newman y Carlo Bernard; y basada en la lucha contra el narcotráfico en Colombia durante los años 1990.",
+        "foto":"https://s1.eestatic.com/2021/11/03/series/netflix/624448910_213731433_1024x576.jpg"
+    },
+
+    {
+        "nombre":"Los Vengadores",
+        "descripcion":"Un enemigo inesperado amenaza con poner en peligro la seguridad mundial, así que Nick Fury, Director de la agencia internacional para el mantenimiento de la paz conocida con el nombre de SHIELD, necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "foto":"https://www.rtl.de/resizer/rHMgvDEXNba7-AxW9WP5ha6cIR4=/arc-anglerfish-eu-central-1-prod-rtl/public/BGNE37MBWJDFZI7UPOTRJ52A3I.jpg"
+    },
+
+    {
+        "nombre":"Peaky Blinders",
+        "descripcion":"Peaky Blinders es un drama de BBC que narra la historia de la familia gitana Shelby y su banda de gángsters, un grupo de personas características por sus boinas con cuchillas y dueñas de los asuntos ilegales, que dominan las apuestas clandestinas y se rigen mediante extorsiones.",
+        "foto":"https://www.seriemaniac.com/wp-content/uploads/2022/01/peaky-blinders-sexta-temporada-hermanos-shelby.jpg"
+    },
+
+    {
+        "nombre":"Arrow",
+        "descripcion":"En esta serie basada en 'Flecha Verde' de DC Comics, un rico playboy se convierte en un vengativo superhéroe que lucha por su ciudad armado con solo un arco y flechas. Ve todo lo que quieras. El estreno de 'Arrow' en 2012 supuso para su cadena el mayor éxito de los últimos 3 años.",
+        "foto":"https://i0.wp.com/wipy.tv/wp-content/uploads/2019/11/Momento-que-se-desarrollar%C3%A1-Green-Arrow-and-the-Canaries.jpg?fit=1000%2C600&ssl=1"
+    },
+
+    {
+        "nombre":"Gambito de dama",
+        "descripcion":"La historia de la serie Gambito de dama, se centra en Beth Harmon, una niña prodigio a que perdió a sus padres en Kentucky a finales de la década de los 50. Lidiará con sus demonios haciendo uso de sus habilidades para el ajedrez al mismo tiempo que desarrolla una adicción a los tranquilizantes.",
+        "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IMIDXMYCYZGKXENRG7ETU25GJY.jpg"
+    },
+
+    {
+        "nombre":"Dark",
+        "descripcion":"Situada en la ficticia ciudad de Winden (Alemania), Dark sigue las secuelas de la desaparición de un niño que expone los secretos y las conexiones ocultas entre cuatro familias mientras desentrañan lentamente una siniestra conspiración de viaje en el tiempo que abarca tres generaciones.",
+        "foto":"https://media.revistagq.com/photos/5efd9d044786c513db97aafb/master/pass/dark-final-explicado.jpg"
+    },
+
+    {
+        "nombre":"La casa de papel",
+        "descripcion":"La Casa de Papel narra lo que se espera que sea el atraco perfecto al Museo de la Fábrica Nacional de Moneda y Timbre. La mente que idea este plan es El Profesor, un hombre que recluta a siete personas para llevar a cabo el gran golpe.",
+        "foto":"https://phantom-marca.unidadeditorial.es/de23426096b76f726395181df8d38443/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/02/16384433555350.jpg"
+    },
+
+    {
+        "nombre":"The Umbrella Academy",
+        "descripcion":"La muerte de su padre reúne a unos hermanos distanciados y con extraordinarios poderes que descubren impactantes secretos y una amenaza que se cierne sobre la humanidad. Ve todo lo que quieras.",
+        "foto":"https://www.lecturas.com/medio/2022/06/23/the-umbrella-academy_2a09f335_1280x720.jpg"
+    },
+
+    {
+        "nombre":"Vikingos",
+        "descripcion":"Vikings está inspirada en las sagas del vikingo Ragnar Lodbrok, uno de los héroes nórdicos legendarios más conocidos y notorio como el flagelo de Inglaterra y Francia. El programa retrata a Ragnar como un granjero que ha conseguido construir barcos revolucionarios con instrumentos de navegación también revolucionarios.",
+        "foto":"https://historia.nationalgeographic.com.es/medio/2020/09/21/vikings-apertura_9bebc23f_1280x851.jpg"
+    },
+
+    {
+        "nombre":"Flash",
+        "descripcion":"Está basada en el personaje de DC Comics Barry Allen / Flash, un superhéroe disfrazado que lucha contra el crimen con el poder de moverse a velocidades sobrehumanas. Es una serie derivada de Arrow, que existe en el mismo universo ficticio. La serie sigue a Barry Allen, interpretado por Grant Gustin, un investigador de escenas del crimen que obtiene velocidad sobrehumana, que usa para luchar contra criminales, incluidos otros que también han adquirido habilidades sobrehumanas.",
+        "foto":"https://cdn2.unrealengine.com/15br-theflash-screenshot-newsheader-1920x1080-0e77cc2ff454.jpg"
+    },
+
+    {
+        "nombre":"Lupin",
+        "descripcion":"Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica. Ve todo lo que quieras.",
+        "foto":"https://www.cined.com/content/uploads/2021/04/w1900_h1155_x991_y602_Omar_Sy_in_Lupin_Netflix-97f8351d7eafaad1.jpg"
+    },
+
+    {
+        "nombre":"Riverdale",
+        "descripcion":"La serie arranca narrando la historia de unos adolescentes de un instituto de la localidad de Riverdale, en 'shock' tras el asesinato de un compañero. ",
+        "foto":"https://www.quever.news/u/fotografias/m/2021/1/20/f608x342-5729_35452_9.jpg"
+    }
+
+
+
+]

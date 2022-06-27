@@ -1,0 +1,91 @@
+[
+    {
+        "nombre":"Batman",
+        "descripcion":"La noche lo llama, las sombras lo anuncian... y el crimen le teme",
+        "foto":"https://i.blogs.es/638a6a/the-batman-movie-review/1366_2000.jpg"
+    },
+
+    {
+        "nombre":"Top Gun",
+        "descripcion":"Un ex combatiente aereo ya no esta en condiciones de volar, y una generacion juvenil debe defender el pais. La experiencia presiona y ayuda.",
+        "foto":"https://i.blogs.es/9a7789/top-gun-maverick-cartel/1366_2000.jpeg"
+    },
+
+    {
+        "nombre":"Capitan america",
+        "descripcion":"Luego de que Thanos pierda, capitan america ya no es el mismo de antes. Su objetivo es buscar la paz, y no todo termino con Thanos...",
+        "foto":"https://media.vandalsports.com/i/1706x960/4-2021/2021427125442_1.jpg.webp"
+    },
+
+    {
+        "nombre":"Jurassic World",
+        "descripcion":"El control no caracteriza a los hombres, y el dominio propio no caracteriza a los Dinosaurios",
+        "foto":"https://phantom-marca.unidadeditorial.es/060a5ad191229572364e509667403c81/resize/1320/f/webp/assets/multimedia/imagenes/2022/02/11/16445345407827.jpg"
+    },
+
+    {
+        "nombre":"Harry Potter",
+        "descripcion":"Harry Potter no sabe que paso con su madre. Una varita y una cicatriz son el eco de sus antepasados.",
+        "foto":"https://as01.epimg.net/meristation/imagenes/2021/10/21/noticias/1634802238_510125_1634802406_noticia_normal.jpg"
+    },
+
+    {
+        "nombre":"El Renacido",
+        "descripcion":"En una expedición al desconocido oeste norteamericano, todavía habitado por tribus indias, Hugh Glass (Leonardo DiCaprio), un trampero, explorador y cazador de pieles es brutalmente atacado por un gigante oso grizzly. El hombre resulta gravemente herido, y sus propios compañeros le dan por muerto.",
+        "foto":"https://estaticos-cdn.elperiodico.com/clip/41a1c48e-582f-4223-a755-5b930dace266_alta-libre-aspect-ratio_default_0.jpg"
+    },
+
+    {
+        "nombre":"Fantastic Mr. Fox",
+        "descripcion":"Fox (Clooney y Streep) llevan una vida familiar idílica junto a su hijo Ash (Schwartzman) y un joven sobrino que han acogido, Kristofferson (Eric Anderson). Pero tras doce años de apacible placidez, es demasiada vida bucólica para el salvaje instinto animal de Mr. Fox.",
+        "foto":"https://i.ytimg.com/vi/n2igjYFojUo/maxresdefault.jpg"
+    },
+
+    {
+        "nombre":"Isla de Perros",
+        "descripcion":"Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki. Un brote de gripe canina se propaga, por eso, el Mayor Kabayashi dicta una orden de emergencia decretando la cuarentena. Isla Basura es el lugar donde se evacua a todos los perros.",
+        "foto":"https://sm.ign.com/t/ign_latam/review/i/isle-of-do/isle-of-dogs-review_nf5f.1280.jpg"
+    },
+
+    {
+        "nombre":"Interstellar",
+        "descripcion":"Ambientada en un futuro distópico donde la humanidad está luchando por sobrevivir, cuenta la historia de un grupo de astronautas que viajan a través de un agujero de gusano cerca de Saturno en busca de un nuevo hogar para la humanidad.",
+        "foto":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/index-2-1597782864.jpg"
+    },
+
+    {
+        "nombre":"Life of Pi",
+        "descripcion":"Cuenta la historia de cómo el joven Pi experimenta la presencia de Dios tras intentar sobrevivir a un naufragio y compartir el bote salvavidas con su único compañero: un tigre de Bengala llamado Richard Parker.",
+        "foto":"http://2.bp.blogspot.com/-wGNhHF7gbLA/UUNVZn5MOkI/AAAAAAAAFns/MjgBU9a7F-s/s1600/pi.jpg"
+    },
+
+    {
+        "nombre":"El gran hotel Budapest",
+        "descripcion":"El protagonista es Gustave H., un conserje de un famoso hotel europeo. Éste entabla amistad con un joven al que convierte en su protegido, algo que no se sabe si es bueno o malo, ya que se meten de cabeza en el robo y la recuperación de una pintura renacentista que tiene un valor incalculable.",
+        "foto":"https://www.cinepremiere.com.mx/wp-content/uploads/2014/04/el-gran-hotel-budpest-pelicula-3.jpg"
+    },
+
+    {
+        "nombre":"Knives Out",
+        "descripcion":"Un misterio moderno en el que un grupo de investigadores ha de descubrir al responsable del asesinato del patriarca de una excéntrica familia.",
+        "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WIQHFBPZG5FKBNROYJA26WIDQI.jpg"
+    },
+
+    {
+        "nombre":"La pasion de Cristo",
+        "descripcion":"La Pasión de Cristo recrea las últimas doce horas de la vida de Jesús de Nazaret, desde el momento en el que acude al Monte de los Olivos hasta el momento de su muerte en la cruz. Tras la última cena, Jesús acude a Getsemane a orar y a enfrentarse a las tentaciones de Satanás.",
+        "foto":"https://i.ytimg.com/vi/7gJoxvzKsz4/maxresdefault.jpg"
+    },
+
+    {
+        "nombre":"Star Wars",
+        "descripcion":"La Resistencia sobreviviente se enfrenta a la Primera Orden, y Rey, Finn, Poe y el resto de los héroes encararán nuevos retos y una batalla final con la sabiduría de las generaciones anteriores.",
+        "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/5IBZWSIEZ5HDTIEKO3SZWQUUKA.jpg"
+    },
+
+    {
+        "nombre":"Dr. Strange",
+        "descripcion":"Marvel's Doctor Strange sigue la historia del talentoso neurocirujano Doctor Stephen Strange quien, tras un trágico accidente automovilístico, debe poner a un lado su ego y aprender los secretos del mundo del misticismo y las dimensiones paralelas.",
+        "foto":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FF6648A2BB444D7A43CB0E41FD3E1F1AB3E0500CEF32F07A002ABDC30212A0D/scale?width=2880&aspectRatio=1.78&format=jpeg"
+    }
+]

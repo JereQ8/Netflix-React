@@ -1,0 +1,9 @@
+.background{
+    height: 90vh;
+    width: 100%; 
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(10, 10, 10)), url(../img/stranger_things2.jpg);
+    background-size: cover;
+    position: relative;
+    z-index: 100;
+    padding: 150px 200px;
+}
