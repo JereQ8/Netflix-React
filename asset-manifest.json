@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Netflix-React/static/css/main.cbc75162.css",
+    "main.js": "/Netflix-React/static/js/main.09b1833e.js",
+    "static/media/12.jpg": "/Netflix-React/static/media/12.b111bdf9b7785dfe37c8.jpg",
+    "static/media/8.jfif": "/Netflix-React/static/media/8.12540460b5b11e4493f4.jfif",
+    "static/media/16.jpg": "/Netflix-React/static/media/16.037af4aaf19c22c443dc.jpg",
+    "static/media/13.jpg": "/Netflix-React/static/media/13.ce4ed4471c7672119803.jpg",
+    "static/media/1.jpg": "/Netflix-React/static/media/1.7cb0c41a1249c6f71d09.jpg",
+    "static/media/19.jpg": "/Netflix-React/static/media/19.12ac1091c94e96db3953.jpg",
+    "static/media/15.jpg": "/Netflix-React/static/media/15.9a3cbd3df9900c5267f4.jpg",
+    "static/media/3.jpeg": "/Netflix-React/static/media/3.58cba3bd9a28d8c3d4aa.jpeg",
+    "static/media/9.jpg": "/Netflix-React/static/media/9.231ffbdb7c78caaf7b65.jpg",
+    "static/media/20.jpg": "/Netflix-React/static/media/20.dd0be9384e0af792b96a.jpg",
+    "static/media/2.jpeg": "/Netflix-React/static/media/2.a9fe4b482792fd700a18.jpeg",
+    "static/media/stranger_things2.jpg": "/Netflix-React/static/media/stranger_things2.ff8a3e44a2b2079c04e4.jpg",
+    "static/media/6.jpg": "/Netflix-React/static/media/6.7a06d65463ff68901d45.jpg",
+    "static/media/7.jpg": "/Netflix-React/static/media/7.54dc6d95d75255b89c3f.jpg",
+    "static/media/4.jpg": "/Netflix-React/static/media/4.c86a7c1f6404dec5b9a3.jpg",
+    "static/media/14.jpg": "/Netflix-React/static/media/14.6f1d2b841a62db0f30a2.jpg",
+    "static/media/17.jpg": "/Netflix-React/static/media/17.b2cec1b222395adbdd7d.jpg",
+    "static/media/5.jpg": "/Netflix-React/static/media/5.3662efb1494a0ab61223.jpg",
+    "static/media/10.jpg": "/Netflix-React/static/media/10.b14733354ae02532415e.jpg",
+    "static/media/18.jpg": "/Netflix-React/static/media/18.1256a8da98a21f7e8b8f.jpg",
+    "static/media/Stranger-Things-logo.png": "/Netflix-React/static/media/Stranger-Things-logo.de6a6f8f7ac6673eb255.png",
+    "static/media/11.jpg": "/Netflix-React/static/media/11.e52deb1fa5fafb6bd140.jpg",
+    "index.html": "/Netflix-React/index.html",
+    "main.cbc75162.css.map": "/Netflix-React/static/css/main.cbc75162.css.map",
+    "main.09b1833e.js.map": "/Netflix-React/static/js/main.09b1833e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc75162.css",
+    "static/js/main.09b1833e.js"
+  ]
+}
