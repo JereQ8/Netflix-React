@@ -1,0 +1,561 @@
+[
+    {
+        "clasicas": [
+            {
+                "nombre": "El origen",
+                "descripcion": "El tiempo no es un parametro, mientras el trompo gire nada se puede creer. ¿Esta girando?",
+                "foto": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/maxresdefault-1-1503479968.jpg?crop=1.00xw:0.893xh;0,0.0841xh&resize=980:*",
+                "portada":"https://i.blogs.es/cb6947/origene-totem/1366_2000.jpeg",
+                "id":1
+            },
+            {
+                "nombre":"Beautiful Boy",
+                "descripcion":"El no tiene control aunque lo crea, el oscuro laberinto de las drogas lo ha desequilibrado. Un padre dispuesto a dejar absolutamente todo por el bien de su hijo.",
+                "foto":"https://i.pinimg.com/564x/d4/b8/f2/d4b8f22b5ac7e24f466686362cf37525.jpg",
+                "portada":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/03/14/15525644090583.jpg",
+                "id":2
+            },
+        
+            {
+                "nombre":"Titanic",
+                "descripcion":"Un gran amor despierta en la encrucijada de un barco a punto de chocar contra un iceberg. Aun sabiendolo se amarian",
+                "foto":"https://img.europapress.es/fotoweb/fotonoticia_20150414125548_800.jpg",
+                "portada":"https://i.ytimg.com/vi/Ovj22QhF-Fs/maxresdefault.jpg",
+                "id":3
+            },
+        
+            {
+                "nombre":"Mujercitas",
+                "descripcion":"El amor antiguo deja sin palabras muchas veces. Estas hermanas enamoradas sufren, aman y desean un principe azul que las ame",
+                "foto":"https://www.elindependiente.com/wp-content/uploads/2020/02/MV5BZmU2NWZhMGEtZTE5MC00ZjEyLThlMDItNjlhMTA0M2JlMTk0XkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SY1000_CR0015001000_AL_-656x368.jpg",
+                "portada":"https://img.europapress.es/fotoweb/fotonoticia_20191227111750_1200.jpg",
+                "id":4
+            },
+        
+            {
+                "nombre":"Buscando a Nemo",
+                "descripcion":"La desesperacion de un padre por encontrar a su hijo es tan grande que deja todo por ello. El camino no es facil pero amigos lo hacen mejor",
+                "foto":"https://assets.adnradio.cl/2022/04/Buscando-a-Nemo-925x470.png",
+                "portada":"https://i0.wp.com/modogeeks.com/wp-content/uploads/2016/06/finding-dory.png?resize=1118%2C640&ssl=1",
+                "id":5
+            },
+        
+            {
+                "nombre":"Avatar",
+                "descripcion":"Jake Sully es un ex-marine confinado en una silla de ruedas que, a pesar de su cuerpo tullido, todavía es un guerrero de corazón. Jake ha sido reclutado para viajar a Pandora, donde las corporaciones están extrayendo un mineral extraño que es la clave para resolver los problemas de la crisis energética de la Tierra.",
+                "foto":"https://as01.epimg.net/meristation/imagenes/2022/04/27/noticias/1651090407_472545_1651090437_portada_normal.jpg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/208A0E5EB8E1ADCEE6DEE4149CFC1428BDAABFCE5A006D2F240ADD8B87F239A5/scale?width=1200&aspectRatio=1.78&format=jpeg",
+                "id":6
+            },
+        
+            {
+                "nombre":"Toy Story",
+                "descripcion":"La franquicia se basa en el concepto antropomórfico de que todos los juguetes, sin conocimiento de los seres humanos, están secretamente vivos, y las películas se centran en un diverso grupo de juguetes que incluyen un vaquero clásico, el Sheriff Woody y el moderno astronauta Buzz Lightyear.",
+                "foto":"https://artout.news/wp-content/uploads/2018/11/toy_story_crop1529333835586.jpg_1834093470.jpg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F468F9EA0CEA90E2A41FC5282BB449DCBA86AFD9B7776470E330EC6CCAC76045/scale?width=1200&aspectRatio=1.78&format=jpeg",
+                "id":7
+            },
+        
+            {
+                "nombre":"Joker",
+                "descripcion":"Arthur Fleck es presentado como víctima de una sociedad inmisericorde, indolente, cruel y violenta. Ciudad Gótica es absolutamente hostil, es una sociedad enferma. No se salvan ni los niños ni los adultos. La corrupción ha penetrado el sistema y así, aparentemente, ha construido al Joker.",
+                "foto":"https://imagenes.heraldo.es/files/og_thumbnail/uploads/imagenes/2019/10/30/el-joker-en-nueva-york.jpeg",
+                "portada":"https://sm.ign.com/t/ign_latam/screenshot/default/jokre2_j5qt.1280.jpg",
+                "id":8
+            },
+        
+            {
+                "nombre":"Bajo la misma estrella",
+                "descripcion":"La historia es narrada por una adolescente de 16 años de edad llamada Hazel Grace Lancaster, quien padece cáncer de tiroides que acaba haciendo metástasis y trasladándose a los pulmones. Por ese motivo, tiene que usar siempre un tanque de oxígeno, al que ella llama Philip.",
+                "foto":"https://alexpler.files.wordpress.com/2014/08/the-fault-in-our-stars-2014-movie-review-marshall-we-live-film.jpg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/79340863252D6D5119CEA610DEB9ADF011F51026E4988BBD33F61B2D29184DDB/scale?width=1200&aspectRatio=1.78&format=jpeg",
+                "id":9
+            },
+        
+            {
+                "nombre":"Wall-e",
+                "descripcion":"La trama sigue a un robot de la línea WALL. E, diseñada para limpiar la basura que cubre a la Tierra después de que fuese devastada y abandonada por el ser humano en un futuro lejano.",
+                "foto":"https://dosdecine.files.wordpress.com/2018/08/walle2.jpg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/25C9709CE12A0D5A4D13099AA41D5539CDEEDBEBC8582795B54527A44B908159/scale?width=2880&aspectRatio=1.78&format=jpeg",
+                "id":10
+            },
+        
+            {
+                "nombre":"El Señor de los Anillos",
+                "descripcion":"El Señor de los Anillos: Las dos Torres, es una película de fantasía y aventuras dirigida por Peter Jackson, secuela de La Comunidad del Anillo. Frodo (Elijah Wood) y Sam (Sean Astin) se separan del resto de sus compañeros de La Comunidad del Anillo para seguir solos su camino hasta Mordor, para destruir el Anillo.",
+                "foto":"https://newspack-hipertextual.s3.amazonaws.com/wp-content/uploads/2021/12/El-senor-de-los-anillos-00.jpg",
+                "portada":"https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-2612631.jpg",
+                "id":11
+            },
+        
+            {
+                "nombre":"Up",
+                "descripcion":"​ La trama relata las aventuras de un viudo de edad avanzada llamado Carl Fredricksen y de un niño escultista cuyo nombre es Russell, quienes viajan a Cataratas del Paraíso, en Venezuela, en el interior de una casa flotante suspendida con globos rellenos de helio.",
+                "foto":"https://filasiete.com/wp-content/uploads/2019/04/Up.jpg",
+                "portada":"https://educayaprende.com/wp-content/uploads/2014/03/up.jpg",
+                "id":12
+            },
+        
+            {
+                "nombre":"Shrek",
+                "descripcion":"Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.",
+                "foto":"https://st1.uvnimg.com/fc/ed/85aa44e443aea043bb5c1a88c64f/shrek-burro-pelicula.jpg",
+                "portada":"https://hbomax-images.warnermediacdn.com/images/GYJ1rsgA_wqUOrgEAAABJ/tileburnedin?size=1280x720&partner=hbomaxcom&v=6b2a064ee45e5d6d25b45c6176e2192a&host=art-gallery.api.hbo.com&language=es-419&w=1280",
+                "id":13
+            },
+        
+            {
+                "nombre":"Piratas del Caribe",
+                "descripcion":"La historia cuenta las aventuras que viven el herrero Will Turner (Orlando Bloom) y el excéntrico capitán pirata Jack Sparrow (Johnny Depp) para rescatar a Elizabeth Swann (Keira Knightley), hija del gobernador de Port Royal, que ha sido secuestrada por la tripulación maldita del barco pirata Perla Negra.",
+                "foto":"https://cdn.superaficionados.com/imagenes/1-piratas-del-caribe-la-maldicion-del-perla-negra-cke.jpg",
+                "portada":"https://i.blogs.es/13b8c5/piratascaribe/1366_2000.jpg",
+                "id":14
+
+            },
+        
+            {
+                "nombre":"Las ventajas de ser invisible",
+                "descripcion":"Charlie es un adolescente tímido e introvertido, con problemas para hacer nuevos amigos, que acaba de ingresar a un nuevo colegio. Pasa gran parte de su tiempo en solitario, extrañando a su mejor amigo.",
+                "foto":"https://hiramnoriega.com/wp-content/uploads/2020/08/123332323232.jpg",
+                "portada":"https://i.blogs.es/963764/las-20ventajas-20de-20ser-20un-20marginado-20the-20perks-20of-20being-20a-20wallflower-20critica/1366_2000.jpg",
+                "id":15
+            }
+        
+        ]
+    },
+    {
+        "pochocleras":[
+            {
+                "nombre":"Mision imposible",
+                "descripcion":"Los miembros de un comando de la CIA son enviados a Praga con la misión de capturar, durante una recepción en la embajada americana, a un espía enemigo que se dispone a robar un disco que contiene una lista secreta de agentes de Europa central.",
+                "foto":"https://asalallena.com.ar/wp-content/uploads/2018/09/Mision-Imposible-3-1024x512.jpg",
+                "portada":"https://www.rionegro.com.ar/wp-content/uploads/2022/05/mision-imposible-7.jpg",
+                "id":1
+            },
+        
+            {
+                "nombre":"Busqueda implacable",
+                "descripcion":"En la cinta de acción y suspenso Búsqueda implacable, dirigida por Pierre Morel (District B13), el agente retirado de la CIA, Bryan Mills, busca tener una relación más cercana con su hija, de 17 años, Kim, quien vive con su ex esposa y su nuevo marido.",
+                "foto":"https://www.conclusion.com.ar/wp-content/uploads/2015/01/taken-3-ok.jpg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D2B90AEE497AA3FD91A4682A0CFDB835DC20DBD99C741EC76A3DFAD9CEA13096/scale?width=2880&aspectRatio=1.78&format=jpeg",
+                "id":2
+            },
+        
+            {
+                "nombre":"Spiderman: No way home",
+                "descripcion":"Después de que Mysterio desvelara la identidad de Spider-Man a todo el mundo en Lejos de casa, Peter Parker (Tom Holland), desesperado por volver a la normalidad y recuperar su anterior vida, pide ayuda a Doctor Strange para enmendar tal acción.",
+                "foto":"https://viniloblog.com/wp-content/uploads/2021/11/spider-man-no-way-home-tom-holland-zendaya.jpg",
+                "portada":"https://i0.wp.com/canalantigua.tv/wp-content/uploads/2021/11/Spider-cnn-grupo-a-09-11-21.jpeg?fit=1080%2C607&ssl=1",
+                "id":3
+            },
+        
+            {
+                "nombre":"Onward",
+                "descripcion":"En los suburbios de este mundo de fantasía viven dos hermanos, los elfos adolescentes Ian y Barley Lightfoot. Sus vidas cambiarán por completo cuando lean una carta que su padre les grabó antes de morir. Junto con esa carta, el padre les ha dejado un bastón de mago como herencia.",
+                "foto":"https://es.web.img3.acsta.net/newsv7/19/05/29/18/58/5126921.jpg",
+                "portada":"https://imagenes.elpais.com/resizer/GZRb93Fx5I_akTJq2CGEgW3tODE=/1960x1103/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/VS3H23LU4JBJTN57JQYQ7ISKPQ.jpg",
+                "id":4
+            },
+        
+            {
+                "nombre":"Los Simpsons",
+                "descripcion":"Homer debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homer, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga – una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás.",
+                "foto":"https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2018/09/07/387C6BA2-E1E0-43DB-B326-31CE9A1DCB8F/98.jpg?crop=1280,720,x0,y0&width=1900&height=1069&optimize=low&format=webply",
+                "portada":"https://img2.rtve.es/i/?w=1600&i=1447940140906.jpg",
+                "id":5
+            },
+        
+            {
+                "nombre":"Red Notice",
+                "descripcion":"John Hartley (Dwayne Johnson), un agente del FBI, hace equipo con un ladrón de arte, Nolan Booth (Ryan Reynolds), para intentar atrapar a otra ladrona de arte, a la que apodan El Alfil (Gal Gadot), que pretende robar unos huevos que pertenecían a Cleopatra.",
+                "foto":"https://www.otroscines.com/images/fotos/alerta-roja-critica-adentro.jpeg",
+                "portada":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/BWL5ZGMESRAOHOUOABLFWWDARA.jpg",
+                "id":6
+            },
+        
+            {
+                "nombre":"Parasitos",
+                "descripcion":"La película cuenta la historia de una familia de cuatro miembros que se infiltra, a base de mentiras, como empleados domésticos de otra. Digamos que la película dirige nuestra atención e interés a cómo lo logran, a cómo mantienen esa farsa, antes de que todo estalle al final.",
+                "foto":"https://okdiario.com/img/2020/02/10/parasitos_--donde-ver-la-pelicula-que-ha-arrasado-en-los-oscar.jpg",
+                "portada":"https://estaticos-cdn.elperiodico.com/clip/2ed80450-d56f-4b45-8d18-8a8886fa6188_alta-libre-aspect-ratio_default_0.jpg",
+                "id":7
+            },
+        
+            {
+                "nombre":"Milagro en la Celda 7",
+                "descripcion":"En principio, “Milagro en la celda 7” es la historia de Memo, un pastor que tiene un trastorno mental cognitivo no identificado, y su hija Ova, cuya madre falleció en su alumbramiento. Ambos viven en la casa de la la abuela de Memo, quien, dicho sea de paso, cree tener la misma edad de la pequeña.",
+                "foto":"https://www.encancha.cl/u/fotografias/m/2020/3/31/f1280x720-29404_161079_5050.jpg",
+                "portada":"https://mx.web.img3.acsta.net/r_1280_720/newsv7/20/03/27/18/56/2203511.jpg",
+                "id":8
+            },
+        
+            {
+                "nombre":"Contra Tiempo",
+                "descripcion":"Acusado de un asesinato del que se declara inocente, el exitoso empresario Adrián Doria contrata los servicios de Virginia Goodman, la mejor preparadora de testigos del país. En el transcurso de una noche, ambos trabajarán para encontrar una duda razonable que le libre de la cárcel.",
+                "foto":"https://cinepremiere.com.mx/assets/images/criticasCN/2017/03-marzo/Contratiempo-critica.jpg",
+                "portada":"https://hbomax-images.warnermediacdn.com/images/GYZLDtgXEkpfDwgEAAABS/tileburnedin?size=1280x720&partner=hbomaxcom&v=082d62e46b3bbcf9873b128215ec6c1a&host=art-gallery.api.hbo.com&language=es-es&w=1280",
+                "id":9
+            },
+        
+            {
+                "nombre":"Spider-Man into the Spider-Verse",
+                "descripcion":"Miles Gonzalo Morales; quien después de haber sido mordido por una araña genéticamente modificada diseñada por el némesis de Spider-Man, Norman Osborn, asumió la identidad de Spider-Man en el Universo Ultimate tras la muerte de Peter Parker.",
+                "foto":"https://cdn2.telediario.mx/uploads/media/2019/01/26/spider-man-into-the-spider-3_322_0_1194_743.jpg",
+                "portada":"https://www.akiracomics.com/imagenes/poridentidad?identidad=41fbb81b-1404-4930-bb14-c69434a8d84f&ancho=850&alto=",
+                "id":10
+            },
+        
+            {
+                "nombre":"Transformers",
+                "descripcion":"La película está protagonizada por Shia LaBeouf en el papel de Sam Witwicky, un adolescente que se ve envuelto en una guerra entre los heroicos Autobots y los villanos Decepticons, dos facciones de robots alienígenas que pueden esconderse transformándose en maquinaria cotidiana, principalmente vehículos.",
+                "foto":"https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/03/27/transformers.jpeg",
+                "portada":"https://i.ytimg.com/vi/71tiGrXW6Vc/maxresdefault.jpg",
+                "id":11
+            },
+        
+            {
+                "nombre":"Divergente",
+                "descripcion":"basado en el primer libro de la saga “Divergente” de Veronica Roth, nos presenta una sociedad que mantiene la paz y funciona gracias a su división en cinco facciones: Verdad, Abnegación, Osadía, Cordialidad y Erudición.",
+                "foto":"https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2017/08/03/Divergent-Series-Allegiant-Poster.jpg",
+                "portada":"https://frasesdelapelicula.com/wp-content/uploads/2014/07/divergente.jpg",
+                "id":12
+            },
+        
+            {
+                "nombre":"Juegos del hambre",
+                "descripcion":"Norte, la nación de Panem obliga a cada uno de sus doce distritos a enviar a un chico y a una chica, adolescentes, para competir en Los juegos del hambre. En parte es un entretenimiento rebuscado y en parte es una táctica de intimidación por parte del gobierno.",
+                "foto":"https://i.ytimg.com/vi/jbn2yDuS2Qo/maxresdefault.jpg",
+                "portada":"https://consolaytablero.com/wp-content/uploads/2015/11/hunger-games-katniss.jpg",
+                "id":13
+            },
+        
+            {
+                "nombre":"Orgullo y prejuicio",
+                "descripcion":" La señora Bennet ha criado a sus cinco hijas con el único deseo de encontrar marido. La llegada al vecindario de Charles Bingley, un joven rico y soltero, con algunas amistades despierta el interés de las hermanas Bennet y de las familias vecinas, que verán una excelente oportunidad para cumplir su propósito.",
+                "foto":"https://img2.rtve.es/imagenes/sesion-tarde-orgullo-prejuicio/1630678439322.jpg",
+                "portada":"https://www.nacionflix.com/__export/1600135149242/sites/debate/img/2020/09/14/orgullo_y_prejuicio-_la_verdadera_historia_de_la_pelxcula_que_estrena_netflix.jpg_759710130.jpg",
+                "id":14
+            },
+        
+            {
+                "nombre":"Cuestion de tiempo",
+                "descripcion":"La película trata sobre un joven con la capacidad de viajar en el tiempo que intenta cambiar su pasado con la esperanza de mejorar su futuro.",
+                "foto":"https://i.pinimg.com/originals/bc/77/6e/bc776e49f56dd01f9262108211001104.jpg",
+                "portada":"https://occ.a.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWcIAtv47-5V8tr5INcWvVZhATXWOZeTL6Qsb3csrmERPOK7bvQixUf0ms8X4fFacLqnYRuRSUfdr6_HPMqjce54B2jEV6W4ta6U.jpg?r=42b",
+                "id":15
+            }
+        
+        ]
+    },
+    {
+        "recomendadas":[
+            {
+                "nombre":"Batman",
+                "descripcion":"La noche lo llama, las sombras lo anuncian... y el crimen le teme",
+                "foto":"https://i.blogs.es/638a6a/the-batman-movie-review/1366_2000.jpg",
+                "portada":"https://gameslatam.com/wp-content/uploads/2021/10/the_batman_2022_movie_trailer.jpg"
+            },
+        
+            {
+                "nombre":"Top Gun",
+                "descripcion":"Un ex combatiente aereo ya no esta en condiciones de volar, y una generacion juvenil debe defender el pais. La experiencia presiona y ayuda.",
+                "foto":"https://i.blogs.es/9a7789/top-gun-maverick-cartel/1366_2000.jpeg",
+                "portada":"https://conocedores.com/wp-content/uploads/2022/06/Top-Gun-Maverick-1.webp"
+            },
+        
+            {
+                "nombre":"Capitan america",
+                "descripcion":"Luego de que Thanos pierda, capitan america ya no es el mismo de antes. Su objetivo es buscar la paz, y no todo termino con Thanos...",
+                "foto":"https://media.vandalsports.com/i/1706x960/4-2021/2021427125442_1.jpg.webp",
+                "portada":"https://holatelcel.com/wp-content/uploads/2021/06/capitan-america--1280x720.png"
+            },
+        
+            {
+                "nombre":"Jurassic World",
+                "descripcion":"El control no caracteriza a los hombres, y el dominio propio no caracteriza a los Dinosaurios",
+                "foto":"https://phantom-marca.unidadeditorial.es/060a5ad191229572364e509667403c81/resize/1320/f/webp/assets/multimedia/imagenes/2022/02/11/16445345407827.jpg",
+                "portada":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/11/16445345407827.jpg"
+            },
+        
+            {
+                "nombre":"Harry Potter",
+                "descripcion":"Harry Potter no sabe que paso con su madre. Una varita y una cicatriz son el eco de sus antepasados.",
+                "foto":"https://as01.epimg.net/meristation/imagenes/2021/10/21/noticias/1634802238_510125_1634802406_noticia_normal.jpg",
+                "portada":"https://as01.epimg.net/meristation/imagenes/2021/10/21/noticias/1634802238_510125_1634802406_noticia_normal.jpg"
+            },
+        
+            {
+                "nombre":"El Renacido",
+                "descripcion":"En una expedición al desconocido oeste norteamericano, todavía habitado por tribus indias, Hugh Glass (Leonardo DiCaprio), un trampero, explorador y cazador de pieles es brutalmente atacado por un gigante oso grizzly. El hombre resulta gravemente herido, y sus propios compañeros le dan por muerto.",
+                "foto":"https://estaticos-cdn.elperiodico.com/clip/41a1c48e-582f-4223-a755-5b930dace266_alta-libre-aspect-ratio_default_0.jpg",
+                "portada":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXtdivx1iAMk9haO1MBKt13J4KJ3eCjqrA0xDSQXSEvIaDSxJOkK9Bq0sVf9fB-KdypczyZOzGORShNg0Mwgc-H9K98o.jpg?r=8ce"
+            },
+        
+            {
+                "nombre":"Fantastic Mr. Fox",
+                "descripcion":"Fox (Clooney y Streep) llevan una vida familiar idílica junto a su hijo Ash (Schwartzman) y un joven sobrino que han acogido, Kristofferson (Eric Anderson). Pero tras doce años de apacible placidez, es demasiada vida bucólica para el salvaje instinto animal de Mr. Fox.",
+                "foto":"https://i.ytimg.com/vi/n2igjYFojUo/maxresdefault.jpg",
+                "portada":"https://www.nextflicks.tv/wp-content/uploads/2018/06/Fantastic-Mr-Fox-NETFLIX.jpg"
+            },
+        
+            {
+                "nombre":"Isla de Perros",
+                "descripcion":"Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki. Un brote de gripe canina se propaga, por eso, el Mayor Kabayashi dicta una orden de emergencia decretando la cuarentena. Isla Basura es el lugar donde se evacua a todos los perros.",
+                "foto":"https://sm.ign.com/t/ign_latam/review/i/isle-of-do/isle-of-dogs-review_nf5f.1280.jpg",
+                "portada":"https://arte.sky.it/archivio/wp-content/uploads/2018/04/Wes-Anderson-Isle-of-Dogs-2018-620x388.jpg"
+            },
+        
+            {
+                "nombre":"Interstellar",
+                "descripcion":"Ambientada en un futuro distópico donde la humanidad está luchando por sobrevivir, cuenta la historia de un grupo de astronautas que viajan a través de un agujero de gusano cerca de Saturno en busca de un nuevo hogar para la humanidad.",
+                "foto":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/index-2-1597782864.jpg",
+                "portada":"https://hbomax-images.warnermediacdn.com/images/GYGP7pwQv_ojDXAEAAAFc/tileburnedin?size=1280x720&partner=hbomaxcom&v=bd4e8b8745a1fcccbb19d76012ae572e&host=art-gallery.api.hbo.com&language=en-us&w=1280"
+            },
+        
+            {
+                "nombre":"Life of Pi",
+                "descripcion":"Cuenta la historia de cómo el joven Pi experimenta la presencia de Dios tras intentar sobrevivir a un naufragio y compartir el bote salvavidas con su único compañero: un tigre de Bengala llamado Richard Parker.",
+                "foto":"http://2.bp.blogspot.com/-wGNhHF7gbLA/UUNVZn5MOkI/AAAAAAAAFns/MjgBU9a7F-s/s1600/pi.jpg",
+                "portada":"https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9552/919552-h"
+            },
+        
+            {
+                "nombre":"El gran hotel Budapest",
+                "descripcion":"El protagonista es Gustave H., un conserje de un famoso hotel europeo. Éste entabla amistad con un joven al que convierte en su protegido, algo que no se sabe si es bueno o malo, ya que se meten de cabeza en el robo y la recuperación de una pintura renacentista que tiene un valor incalculable.",
+                "foto":"https://www.cinepremiere.com.mx/wp-content/uploads/2014/04/el-gran-hotel-budpest-pelicula-3.jpg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D98022766A944C613BAB8426A275C3A1726A8642D1000F6E156830B521494E29/scale?width=1200&aspectRatio=1.78&format=jpeg"
+            },
+        
+            {
+                "nombre":"Knives Out",
+                "descripcion":"Un misterio moderno en el que un grupo de investigadores ha de descubrir al responsable del asesinato del patriarca de una excéntrica familia.",
+                "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WIQHFBPZG5FKBNROYJA26WIDQI.jpg",
+                "portada":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JFQWV37PC5FIBHNSR2JD2W5Y64.jpg"
+            },
+        
+            {
+                "nombre":"La pasion de Cristo",
+                "descripcion":"La Pasión de Cristo recrea las últimas doce horas de la vida de Jesús de Nazaret, desde el momento en el que acude al Monte de los Olivos hasta el momento de su muerte en la cruz. Tras la última cena, Jesús acude a Getsemane a orar y a enfrentarse a las tentaciones de Satanás.",
+                "foto":"https://i.ytimg.com/vi/7gJoxvzKsz4/maxresdefault.jpg",
+                "portada":"https://media.vandalsports.com/i/640x360/9-2020/2020921113221_1.jpg"
+            },
+        
+            {
+                "nombre":"Star Wars",
+                "descripcion":"La Resistencia sobreviviente se enfrenta a la Primera Orden, y Rey, Finn, Poe y el resto de los héroes encararán nuevos retos y una batalla final con la sabiduría de las generaciones anteriores.",
+                "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/5IBZWSIEZ5HDTIEKO3SZWQUUKA.jpg",
+                "portada":"https://pbs.twimg.com/media/FDtrkwlWUAAYMal.jpg:large"
+            },
+        
+            {
+                "nombre":"Dr. Strange",
+                "descripcion":"Marvel's Doctor Strange sigue la historia del talentoso neurocirujano Doctor Stephen Strange quien, tras un trágico accidente automovilístico, debe poner a un lado su ego y aprender los secretos del mundo del misticismo y las dimensiones paralelas.",
+                "foto":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3FF6648A2BB444D7A43CB0E41FD3E1F1AB3E0500CEF32F07A002ABDC30212A0D/scale?width=2880&aspectRatio=1.78&format=jpeg",
+                "portada":"https://www.lavanguardia.com/uploads/2022/04/06/624dc7c03532f.jpeg"
+            }
+        ]
+    },
+    {
+        "seriesRecomendadas":[
+            {
+                "nombre":"Stranger Things",
+                "descripcion":"A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña. Ve todo lo que quieras.",
+                "foto":"https://media.gq.com.mx/photos/5f5a6ba84464f9b88fb2682c/16:9/w_2560%2Cc_limit/stranger.jpg",
+                "portada":"https://statics.forbesargentina.com/2022/05/628658a73c567.jpg"
+            },
+        
+            {
+                "nombre":"Anne with an E",
+                "descripcion":"Anne Shirley es una niña huérfana que vive en un pequeño pueblo llamado Avonlea que pertenece a la Isla del Príncipe Eduardo, en el año 1890. Después de una infancia difícil, donde fue pasando de orfanato a hogares de acogida, es enviada por error a vivir con una solterona y su hermano.",
+                "foto":"https://i0.wp.com/brutstatt.de/Wordpress/wp-content/uploads/2021/06/EP303_10_AWAE3_DAY06_KW_0394.jpg?ssl=1",
+                "portada":"https://occ-0-784-3933.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUsMox98AmPczX8MwXQshWAWCQA-mU8rX4Ux1yPhDz_jKN4ZWr7kaZcO9UYEaA3_4Yr5tOY19xknYPDmzGvcPzRIjjf2TpiibLK4.jpg?r=2c5"
+            },
+        
+            {
+                "nombre":"Elite",
+                "descripcion":"Cuando tres jóvenes de clase obrera se matriculan en un exclusivo instituto privado, las diferencias entre ellos y los alumnos ricos darán lugar a un asesinato. Ve todo lo que quieras. Jaime Lorente (Nano), María Pedraza (Marina) y Miguel Herrán (Christian) también protagonizaron `La casa de papel`.",
+                "foto":"https://indiehoy.com/wp-content/uploads/2021/07/elite-personajes.jpg",
+                "portada":"https://occ-0-1360-55.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYA5_jQn9EOTiXpVsTVEaYkfF4g5L3Cs0JtC7KxnWYtcC0TdL_lYu_4boHsZWhRcXFYedL4MG0Z6zHcNVPeyW4QImgK8swlZbAK8.jpg?r=bc0"
+            },
+        
+            {
+                "nombre":"Narcos",
+                "descripcion":"Narcos es una serie de televisión web de ficción histórica producida por Dynamo Producciones y Gaumon International Television para Netflix. Creada por los estadounidenses Chris Brancato, Eric Newman y Carlo Bernard; y basada en la lucha contra el narcotráfico en Colombia durante los años 1990.",
+                "foto":"https://s1.eestatic.com/2021/11/03/series/netflix/624448910_213731433_1024x576.jpg",
+                "portada":"https://s1.eestatic.com/2021/11/03/series/netflix/624448910_213731432_1706x960.jpg"
+            },
+        
+            {
+                "nombre":"Los Vengadores",
+                "descripcion":"Un enemigo inesperado amenaza con poner en peligro la seguridad mundial, así que Nick Fury, Director de la agencia internacional para el mantenimiento de la paz conocida con el nombre de SHIELD, necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+                "foto":"https://www.rtl.de/resizer/rHMgvDEXNba7-AxW9WP5ha6cIR4=/arc-anglerfish-eu-central-1-prod-rtl/public/BGNE37MBWJDFZI7UPOTRJ52A3I.jpg",
+                "portada":"https://lumiere-a.akamaihd.net/v1/images/los_vengadores_disney_plus_cd769592.jpeg?region=0,0,2880,1620&width=960"
+            },
+        
+            {
+                "nombre":"Peaky Blinders",
+                "descripcion":"Peaky Blinders es un drama de BBC que narra la historia de la familia gitana Shelby y su banda de gángsters, un grupo de personas características por sus boinas con cuchillas y dueñas de los asuntos ilegales, que dominan las apuestas clandestinas y se rigen mediante extorsiones.",
+                "foto":"https://www.seriemaniac.com/wp-content/uploads/2022/01/peaky-blinders-sexta-temporada-hermanos-shelby.jpg",
+                "portada":"https://phantom-marca.unidadeditorial.es/20a6326c21b0bef5d1cb18cf3a9e40d3/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/08/16546830526781.jpg"
+            },
+        
+            {
+                "nombre":"Arrow",
+                "descripcion":"En esta serie basada en 'Flecha Verde' de DC Comics, un rico playboy se convierte en un vengativo superhéroe que lucha por su ciudad armado con solo un arco y flechas. Ve todo lo que quieras. El estreno de 'Arrow' en 2012 supuso para su cadena el mayor éxito de los últimos 3 años.",
+                "foto":"https://i0.wp.com/wipy.tv/wp-content/uploads/2019/11/Momento-que-se-desarrollar%C3%A1-Green-Arrow-and-the-Canaries.jpg?fit=1000%2C600&ssl=1",
+                "portada":"https://i0.wp.com/www.lacasadeel.net/wp-content/uploads/2022/04/Arrow-destacada.jpg"
+            },
+        
+            {
+                "nombre":"Gambito de dama",
+                "descripcion":"La historia de la serie Gambito de dama, se centra en Beth Harmon, una niña prodigio a que perdió a sus padres en Kentucky a finales de la década de los 50. Lidiará con sus demonios haciendo uso de sus habilidades para el ajedrez al mismo tiempo que desarrolla una adicción a los tranquilizantes.",
+                "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IMIDXMYCYZGKXENRG7ETU25GJY.jpg",
+                "portada":"https://elrincondenetflix.com/wp-content/uploads/2020/02/arrow.jpg"
+            },
+        
+            {
+                "nombre":"Dark",
+                "descripcion":"Situada en la ficticia ciudad de Winden (Alemania), Dark sigue las secuelas de la desaparición de un niño que expone los secretos y las conexiones ocultas entre cuatro familias mientras desentrañan lentamente una siniestra conspiración de viaje en el tiempo que abarca tres generaciones.",
+                "foto":"https://media.revistagq.com/photos/5efd9d044786c513db97aafb/master/pass/dark-final-explicado.jpg",
+                "portada":"https://cdn.culturagenial.com/es/imagenes/dark-logo-cke.jpg"
+            },
+        
+            {
+                "nombre":"La casa de papel",
+                "descripcion":"La Casa de Papel narra lo que se espera que sea el atraco perfecto al Museo de la Fábrica Nacional de Moneda y Timbre. La mente que idea este plan es El Profesor, un hombre que recluta a siete personas para llevar a cabo el gran golpe.",
+                "foto":"https://phantom-marca.unidadeditorial.es/de23426096b76f726395181df8d38443/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/02/16384433555350.jpg",
+                "portada":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada-6-1639052406.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+            },
+        
+            {
+                "nombre":"The Umbrella Academy",
+                "descripcion":"La muerte de su padre reúne a unos hermanos distanciados y con extraordinarios poderes que descubren impactantes secretos y una amenaza que se cierne sobre la humanidad. Ve todo lo que quieras.",
+                "foto":"https://www.lecturas.com/medio/2022/06/23/the-umbrella-academy_2a09f335_1280x720.jpg",
+                "portada":"https://phantom-marca.unidadeditorial.es/f9012f79b01857627785edef050b12f0/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/22/16559281960590.jpg"
+            },
+        
+            {
+                "nombre":"Vikingos",
+                "descripcion":"Vikings está inspirada en las sagas del vikingo Ragnar Lodbrok, uno de los héroes nórdicos legendarios más conocidos y notorio como el flagelo de Inglaterra y Francia. El programa retrata a Ragnar como un granjero que ha conseguido construir barcos revolucionarios con instrumentos de navegación también revolucionarios.",
+                "foto":"https://historia.nationalgeographic.com.es/medio/2020/09/21/vikings-apertura_9bebc23f_1280x851.jpg",
+                "portada":"https://estaticos.muyinteresante.es/uploads/images/test/624468ed5bafe8913e31e58a/vikingos-redes.jpg"
+            },
+        
+            {
+                "nombre":"Flash",
+                "descripcion":"Está basada en el personaje de DC Comics Barry Allen / Flash, un superhéroe disfrazado que lucha contra el crimen con el poder de moverse a velocidades sobrehumanas. Es una serie derivada de Arrow, que existe en el mismo universo ficticio. La serie sigue a Barry Allen, interpretado por Grant Gustin, un investigador de escenas del crimen que obtiene velocidad sobrehumana, que usa para luchar contra criminales, incluidos otros que también han adquirido habilidades sobrehumanas.",
+                "foto":"https://cdn2.unrealengine.com/15br-theflash-screenshot-newsheader-1920x1080-0e77cc2ff454.jpg",
+                "portada":"https://super-ficcion.com/wp-content/uploads/2022/01/the-flash-temporada-9-1.webp"
+            },
+        
+            {
+                "nombre":"Lupin",
+                "descripcion":"Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica. Ve todo lo que quieras.",
+                "foto":"https://www.cined.com/content/uploads/2021/04/w1900_h1155_x991_y602_Omar_Sy_in_Lupin_Netflix-97f8351d7eafaad1.jpg",
+                "portada":"https://media.revistagq.com/photos/60c71d01d6baf29e5f1a8dc0/master/pass/lupin-temporada-3.jpeg"
+            },
+        
+            {
+                "nombre":"Riverdale",
+                "descripcion":"La serie arranca narrando la historia de unos adolescentes de un instituto de la localidad de Riverdale, en 'shock' tras el asesinato de un compañero. ",
+                "foto":"https://www.quever.news/u/fotografias/m/2021/1/20/f608x342-5729_35452_9.jpg",
+                "portada":"https://media.a24.com/p/5f59ba2d96fbeea0adf0ee5427d531b6/adjuntos/296/imagenes/008/709/0008709993/1200x675/smart/netflix-riverdalepng.png"
+            }
+        ]
+    },
+    {
+        "comedia":[
+            {
+                "nombre":"La noche de las nerds",
+                "descripcion":"Muchos de sus estudiantes viajan a otros estados, lejos de casa, para arrancar una nueva etapa de su vida. Pero antes tienen que despedirse de sus padres, de sus amistades y hasta de su hogar. Es por eso que es un tema recurrente en las películas de Hollywood.",
+                "foto":"https://pics.filmaffinity.com/booksmart-107917342-large.jpg",
+                "portada":"https://pics.filmaffinity.com/booksmart-107917342-large.jpg"
+            },
+            {
+                "nombre":"No miren arriba",
+                "descripcion":"Dos astrónomos realizan una gira mediática para advertirle a la humanidad de un cometa mortal que está en rumbo de colisión con la Tierra. La respuesta del mundo: ¿Y? Ve todo lo que quieras. Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep y Jonah Hill lideran un elenco estelar en esta comedia de Adam McKay.",
+                "foto":"https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/11/16/no-mires-arriba.jpeg",
+                "portada":"https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/11/16/no-mires-arriba.jpeg"
+            },
+            {
+                "nombre":"Sangre, sudor y gloria",
+                "descripcion":"La hilarante comedia de acción de Michael Bay, Sangre, sudor y gloria es como Buenos Muchachos con esteroides. Cuando un ambicioso grupo de entrenadores personales (Mark Wahlberg, Dwayne Johnson y Anthony Mackie) van tras el sueño americano, se ven involucrados en una empresa criminal que termina terriblemente mal.",
+                "foto":"https://pasionporelcine.net/wp-content/uploads/2013/09/Dolor-y-dinero-pel%C3%ADcula-culturistas-secuestro.jpg",
+                "portada":"https://pasionporelcine.net/wp-content/uploads/2013/09/Dolor-y-dinero-pel%C3%ADcula-culturistas-secuestro.jpg"
+            },
+            {
+                "nombre":"Misterio a bordo",
+                "descripcion":"Durante un muy esperado viaje a Europa, un policía de Nueva York y su esposa tratan de resolver un misterioso asesinato a bordo del yate de un multimillonario. Ve todo lo que quieras. Esta segunda película de Adam Sandler y Jennifer Aniston ganó el premio People's Choice 2019 a mejor comedia.",
+                "foto":"https://i0.wp.com/cinemedios.com/wp-content/uploads/2021/08/misterioabordo_secuela.jpg?fit=1200%2C675&ssl=1",
+                "portada":"https://i0.wp.com/cinemedios.com/wp-content/uploads/2021/08/misterioabordo_secuela.jpg?fit=1200%2C675&ssl=1"
+            },
+            {
+                "nombre":"Noche de juegos",
+                "descripcion":"Max (Jason Bateman) y Annie (Rachel McAdams) son una pareja muy competitiva a la que les encanta jugar a juegos de ingenio, de preguntas y respuestas, especialmente sobre cine y televisión. Cada semana (o siempre que pueden), se juntan con su grupo de amigos para celebrar una noche de juegos",
+                "foto":"https://los40es00.epimg.net/los40/imagenes/2018/04/26/cinetv/1524756650_622349_1524756854_rrss_normal.jpg",
+                "portada":"https://los40es00.epimg.net/los40/imagenes/2018/04/26/cinetv/1524756650_622349_1524756854_rrss_normal.jpg"
+            },
+            {
+                "nombre":"¿Que paso ayer?",
+                "descripcion":"Sinopsis. En ¿Qué pasó ayer?, Doug y Tracy Garner están a punto de casarse. Todo es emoción y un par de días antes de la boda no paran los preparativos. Pero Doug, sus amigos Phil (Bradley Cooper) y Stu (Ed Helms), y su cuñado Alan (Zach Galifianakis) deciden irse a celebrar el fin de la soltería del novio a Las Vegas.",
+                "foto":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/cc04383b1003e57a93231155a7befd17d8327f17a768d77281054ffb25fcfe5a._V_SX1080_.jpg",
+                "portada":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/cc04383b1003e57a93231155a7befd17d8327f17a768d77281054ffb25fcfe5a._V_SX1080_.jpg"
+            },
+            {
+                "nombre":"Ni en tus sueños",
+                "descripcion":"Un inesperado reencuentro lleva a una obstinada candidata presidencial a contratar a un imprudente redactor de discursos que desafía sus políticas... y su corazón. Ve todo lo que quieras. Esta comedia romántica está protagonizada por la ganadora del Óscar Charlize Theron y Seth Rogen.",
+                "foto":"https://i.ytimg.com/vi/EariM2e2Dqk/maxresdefault.jpg",
+                "portada":"https://i.ytimg.com/vi/EariM2e2Dqk/maxresdefault.jpg"
+            },
+            {
+                "nombre":"El lobo de Wall Street",
+                "descripcion":"La carrera de un joven de clase media cambia totalmente cuando ingresa al mundo bursátil de Wall Street y se sumerge en los excesos que conlleva; pasa de ser un hombre casado y con moral a un empresario corrompido por el poder del dinero.",
+                "foto":"http://www.gothamfilms.es/wp-content/uploads/2014/02/wolfwallstreet.png",
+                "portada":"http://www.gothamfilms.es/wp-content/uploads/2014/02/wolfwallstreet.png"
+            },
+            {
+                "nombre":"Mi pobre angelito",
+                "descripcion":"Kevin McCallister (Macaulay Culkin), es un niño que se siente incómodo y dolido por la actitud de su numerosa familia en las vísperas de Navidad, pero durante el viaje que hace la familia a Francia accidentalmente su madre se da cuenta que olvidaron a Kevin, mientras empieza una serie de situaciones",
+                "foto":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/89C3F82BBA4E0F3E84CC827389FDC0F8AE3A69021B9217A7B8A83113D03CD3AC/scale?width=1200&aspectRatio=1.78&format=jpeg",
+                "portada":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/89C3F82BBA4E0F3E84CC827389FDC0F8AE3A69021B9217A7B8A83113D03CD3AC/scale?width=1200&aspectRatio=1.78&format=jpeg"
+            },
+            {
+                "nombre":"Legalmente Rubia",
+                "descripcion":"La película está basada en la novela de 2001, del mismo nombre, de Amanda Brown. La película es la historia ficticia de la búsqueda de una chica de hermandad para ser considerada seriamente en la escuela de leyes de Harvard con el objetivo de recuperar a su expareja.",
+                "foto":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LMGRIALSH5HGLKHOQOJZ52WWCE.png",
+                "portada":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LMGRIALSH5HGLKHOQOJZ52WWCE.png"
+            },
+            {
+                "nombre":"Mentiroso, mentiroso",
+                "descripcion":"Fletcher Reede (Jim Carrey) es un abogado parlanchín, ambicioso y sin escrúpulos que se atiene a un solo código ético: la verdad es negociable. No tiene rival en cuanto a exagerar y distorsionar la realidad en el juicio con tal de conseguir un veredicto favorable.",
+                "foto":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZeB1I4g4CVEPFNBVu6PKV0rYHq8FoF_KXw46xUAp3NRUJOS1o2SYBsF5dJp7NuujWyZLQMeQy6bLw0OOss6dmmOf5S6.jpg?r=30d",
+                "portada":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZeB1I4g4CVEPFNBVu6PKV0rYHq8FoF_KXw46xUAp3NRUJOS1o2SYBsF5dJp7NuujWyZLQMeQy6bLw0OOss6dmmOf5S6.jpg?r=30d"
+            },
+            {
+                "nombre":"The Truman Show",
+                "descripcion":"El filme está protagonizado por Jim Carrey en el papel de Truman Burbank; adoptado y criado por una corporación dentro de un show televisivo de realidad simulada que se centra en su vida, hasta que lo descubre y decide escapar.",
+                "foto":"https://images5.alphacoders.com/342/thumb-1920-342593.jpg",
+                "portada":"https://images5.alphacoders.com/342/thumb-1920-342593.jpg"
+            },
+            {
+                "nombre":"Baywatch",
+                "descripcion":"A pesar de tener personalidades opuestas, los dos socorristas deberán unir fuerzas y formar equipo. Juntos descubrirán una trama criminal, en torno a drogas y asesinos, que amenaza el futuro de la Bahía. Su objetivo será proteger la playa de su destrucción a manos de un magnate del petróleo.",
+                "foto":"https://occ-0-1556-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWCEfry0OAhRu3xqmfS8eJ3iuzvg1cjrD_UTmN-yjoZBKTZnZCQLPI-mlgE4uh5pBuxbDhHIRyHmH4fBJmGTX91RUTsnr56wSYnB.jpg?r=3f1",
+                "portada":"https://occ-0-1556-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWCEfry0OAhRu3xqmfS8eJ3iuzvg1cjrD_UTmN-yjoZBKTZnZCQLPI-mlgE4uh5pBuxbDhHIRyHmH4fBJmGTX91RUTsnr56wSYnB.jpg?r=3f1"
+            },
+            {
+                "nombre":"Son como niños",
+                "descripcion":"Después de 30 años, cinco amigos se reúnen en una casa del lago para llorar la pérdida de su antiguo entrenador de básquet y vuelven a descubrir la alegría de la niñez. Ve todo lo que quieras. Adam Sandler se une a Chris Rock, Salma Hayek Pinault, Kevin James y Rob Schneider en esta simpática comedia.",
+                "foto":"https://play-lh.googleusercontent.com/proxy/AzEBeBEIFqw2e9BXyW5MHuxKSQWYr9E-MoZ4VhuDEAt3QOTs4o8a5uu2TnI-mmrVApRwzqIwUjL9Skjwz69LU3YK6jFxP07sdvVP-LghfxXpoyYBRU4tuZA=s1920-w1920-h1080",
+                "portada":"https://play-lh.googleusercontent.com/proxy/AzEBeBEIFqw2e9BXyW5MHuxKSQWYr9E-MoZ4VhuDEAt3QOTs4o8a5uu2TnI-mmrVApRwzqIwUjL9Skjwz69LU3YK6jFxP07sdvVP-LghfxXpoyYBRU4tuZA=s1920-w1920-h1080"
+            },
+            {
+                "nombre":"Tonto y retonto",
+                "descripcion":"Lloyd Christmas (Jim Carrey) es un ingenuo conductor de limusinas residente de Providence, Rhode Island, que se encapricha con su acompañante, Mary Swanson (Lauren Holly), cuando él la lleva al aeropuerto. Mary se dirigía a casa de su familia en Aspen, Colorado, pero deja un maletín en el aeropuerto.",
+                
+                "foto": "https://image.tmdb.org/t/p/original//8uBTDGRcNHhYChcoazP5rleRME7.jpg",
+                "portada":"https://image.tmdb.org/t/p/original//8uBTDGRcNHhYChcoazP5rleRME7.jpg"
+            }
+        ]
+    }
+]
